@@ -10,7 +10,24 @@ A couple of years after this I saw the same concept of virtual accessories imple
 
 <img src="PlayIT_HighFidelityMockup.png" width="600px">
 
+## Memory-Assistive Device and App
+In the same course in the HCI program I attended in 2012 I came up with the idea of a set of tools that can help people with memory impairment.  The idea involved using an eyewear-mounted camera and a mobile application to enable the subject record their daily experiences.  The recorded videos and/or images can be annotated during recording, and later reviewed.
+
+Below are the concept sketches of the physical object and wireframes for the partner application.
+
+<img src="EnableIT_ProductSketch.png" width="700px">
+<img src="HCI595XHiFidelityMockups.png" width="700px">
+
+
 ## Novel Table Tennis Racquet Design
 In 2013 I was playing table tennis frequently for a stretch of a few months.  During that time I started wondering if a more ergonomic and effective manner of holding and using the racquet is possible.  As a result I came up with the following racquet design.
 
+### Concept Illustration
 <img src="ttrd_perspective_operation_view.png" width="500px">
+
+### Physical Implementation
+<img src="henrynavarro_ttracketdesign_topview.png" width="500px">
+<img src="henrynavarro_ttracketdesign_frontview.png" width="500px">
+<img src="henrynavarro_ttracketdesign_bottomview.png" width="500px">
+<img src="henrynavarro_ttracketdesign_backview.png" width="500px">
+
