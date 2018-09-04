@@ -8,6 +8,7 @@ As one of my main projects for a course in the Iowa State University's graduate 
 
 A couple of years after this I saw the same concept of virtual accessories implemented in the Facebook mobile app, as well as other mobile apps.
 
+### High-fidelity Mock
 <img src="PlayIT_HighFidelityMockup.png" width="600px">
 
 ## Memory-Assistive Device and App
@@ -18,7 +19,7 @@ Below are the concept sketches of the physical object and wireframes for the par
 ### Concept Sketch
 <img src="EnableIT_ProductSketch.png" width="700px">
 
-### App Wireframes
+### App UI Mock/Wireframes
 <img src="HCI595XHiFidelityMockups.png" width="700px">
 
 
@@ -37,6 +38,7 @@ In 2013 I was playing table tennis frequently for a stretch of a few months.  Du
 ## Mobile App for Managing/Sending Money
 I come from a country where people often send goods and money to their family, relatives and other loved ones.  Being familiar about this in 2014 I visualized a mobile application for managing such activity.  Below are the collections of pages for the envisioned mobile app, ilustrated in high-fidelity. I later implemented a prototype of this applcation using the Adobe Flash/Flex platform.
 
+### High-fidelity Mocks
 <img src="mockuppagesset1.png" width="700px">
 <img src="mockuppagesset2.png" width="700px">
 
