@@ -47,11 +47,17 @@ Working in GE Digital's Design division in 2016, I designed and implemented in P
 
 <img src="px-path-guide.png" width="600px">
 
-# Pigeon Trapdoor Design
+## Pigeon Trapdoor Design
 One of my hobbies is raising and flying homing pigeons.  One of the essential parts of a homing pigeon loft (house) is a trapdoor where they can enter but not exit from.  After having seen a couple of trapdoor designs I came up with my own, as shown in the picture below.
 
-The trapdoor is the wooden device shown placed on a metal table.  The hole facing front is where the pigeons go in.  This trapdoor is mounted higher than the floor of the pigeon loft so the birds can 'drop' going thru the hole.
+The trapdoor is the wooden device shown placed on the metal table.  In actual installation the door would be place in hole cut out from one side of the loft.  The hole facing front is where the pigeons go in.  The trapdoor is mounted higher than the floor of the pigeon loft so the birds can 'drop in' going thru the hole.
 
 <img src="pigeon-trapdoor.jpg" width="600px">
+
+## Pigeon Loft
+From the same hobby I built a pigeon loft that houses my pigeons.  The picture shown below has the following features: 1) trapdoor similar to the above design, 2) Waterproof and insulated roof, 3) wheels that enable rolling the structure to the desired location and 4) 70% re-purposed materials (for example, the walls were from a bunk bed I got for free from an online ad). I built this structure using a combination of woodworking tools (power saws, drill, screwdriver, square, planer, sander and bevel).
+
+<img src="pigeon-house.jpg" width="500px">
+
 
 
