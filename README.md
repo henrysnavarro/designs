@@ -50,6 +50,6 @@ One of my hobbies is raising and flying homing pigeons.  One of the essential pa
 
 The trapdoor is the wooden device shown placed on a metal table.  The hole facing front is where the pigeons go in.  This trapdoor is mounted higher than the floor of the pigeon loft so the birds can 'drop' going thru the hole.
 
-<img src="pigeon-trapdoor.png" width="600px">
+<img src="pigeon-trapdoor.jpg" width="600px">
 
 
