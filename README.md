@@ -55,7 +55,7 @@ The trapdoor is the wooden device shown placed on the metal table.  In actual in
 <img src="pigeon-trapdoor.jpg" width="600px">
 
 ## Pigeon Loft
-From the same hobby I built a pigeon loft that houses my pigeons.  The picture shown below has the following features: 1) trapdoor similar to the above design, 2) Waterproof and insulated roof, 3) wheels that enable rolling the structure to the desired location and 4) 70% re-purposed materials (for example, the walls were from a bunk bed I got for free from an online ad). I built this structure using a combination of woodworking tools (power saws, drill, screwdriver, square, planer, sander and bevel).
+From the same hobby I built a pigeon loft that houses my pigeons.  The picture shown below has the following features: 1) trapdoor similar to the above design, 2) Waterproof and air/foam insulated roof, 3) wheels that enable rolling the structure to the desired location and 4) 70% re-purposed materials (for example, the walls were from a bunk bed I got for free from an online ad). I built this structure using a combination of woodworking tools (power saws, drill, screwdriver, square, planer, sander and bevel).
 
 <img src="pigeon-house.jpg" width="500px">
 
