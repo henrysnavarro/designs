@@ -20,6 +20,7 @@ Below are the concept sketches of the physical object and wireframes for the par
 <img src="EnableIT_ProductSketch.png" width="700px">
 
 ### App UI Mock/Wireframes
+<img src="HCI595X_EnableIT_Wireframes_Set1.png" width="700px">
 <img src="HCI595XHiFidelityMockups.png" width="700px">
 
 
