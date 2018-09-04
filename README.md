@@ -31,11 +31,16 @@ In 2013 I was playing table tennis frequently for a stretch of a few months.  Du
 <img src="henrynavarro_ttracketdesign_bottomview.png" width="500px">
 <img src="henrynavarro_ttracketdesign_backview.png" width="500px">
 
-## Mobile App for Sending Money
+## Mobile App for Managing/Sending Money
 I come from a country where people often sent goods and money to their family, relatives and other loved ones.  Being familiar about this in 2014 I visualized a mobile application for managing the process of such activity.  Below are the collections of pages for the envisioned mobile app, ilustrated in high-fidelity. I later implemented a prototype of this applcation using the Adobe Flash/Flex platform.
 
 <img src="mockuppagesset1.png" width="700px">
 <img src="mockuppagesset2.png" width="700px">
+
+## Path Guide UI Component
+Working in GE Digital's Design division in 2016, I designed and implemented in Polymer a web UI component for indicating the status of a process divided in a sequence of steps.  Below is an illustration I made showing the essential visuals of the component, alongside its configuration options.
+
+<img src="px-path-guide.png" width="600px">
 
 
 
