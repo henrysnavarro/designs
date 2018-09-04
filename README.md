@@ -3,4 +3,6 @@ For as long as I can remember, I have always found enjoyment and reward in creat
 
 This page presents a collection of ideas, designs and innovations I have come up with in the past 10 or so years.  They cover user interfaces, sporting equipment and assistive products.
 
+## Children's Virtual Decoration App
 
+<img src="PlayIT_HighFidelityMockup.png" width="600px">
