@@ -15,7 +15,10 @@ In the same course in the HCI program I attended in 2012 I came up with the idea
 
 Below are the concept sketches of the physical object and wireframes for the partner application.
 
+### Concept Sketch
 <img src="EnableIT_ProductSketch.png" width="700px">
+
+### App Wireframes
 <img src="HCI595XHiFidelityMockups.png" width="700px">
 
 
@@ -42,5 +45,11 @@ Working in GE Digital's Design division in 2016, I designed and implemented in P
 
 <img src="px-path-guide.png" width="600px">
 
+# Pigeon Trapdoor Design
+One of my hobbies is raising and flying homing pigeons.  One of the essential parts of a homing pigeon loft (house) is a trapdoor where they can enter but not exit from.  After having seen a couple of trapdoor designs I came up with my own, as shown in the picture below.
+
+The trapdoor is the wooden device shown placed on a metal table.  The hole facing front is where the pigeons go in.  This trapdoor is mounted higher than the floor of the pigeon loft so the birds can 'drop' going thru the hole.
+
+<img src="pigeon-trapdoor.png" width="600px">
 
 
