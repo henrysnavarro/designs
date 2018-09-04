@@ -9,3 +9,8 @@ As one of my main projects for a course in the Iowa State University's graduate 
 A couple of years after this I saw the same concept of virtual accessories implemented in the Facebook mobile app, as well as other mobile apps.
 
 <img src="PlayIT_HighFidelityMockup.png" width="600px">
+
+## Novel Table Tennis Racquet Design
+In 2013 I was playing table tennis frequently for a stretch of a few months.  During that time I started wondering if a more ergonomic and effective manner of holding and using the racquet is possible.  As a result I came up with the following racquet design.
+
+<img src="ttrd_perspective_operation_view.png" width="500px">
