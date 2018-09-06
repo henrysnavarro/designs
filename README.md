@@ -25,7 +25,7 @@ Below are the concept sketches of the physical object and wireframes for the par
 
 
 ## Novel Table Tennis Racquet Design
-In 2013 I was playing table tennis frequently for a stretch of a few months.  During that time I started wondering if a more ergonomic and effective manner of holding and using the racquet is possible.  As a result I came up with the following racquet design.
+In 2013 I was playing table tennis frequently for a stretch of a few months.  During that time I started wondering if a more ergonomic and effective manner of holding and using the racquet is possible.  As a result I came up with the following racquet design.  After building my design I tested it by playing with other players who were good and used the conventional racket design.  I was happy to win a few games against good players using this design.
 
 ### Concept Illustration
 <img src="ttrd_perspective_operation_view.png" width="500px">
